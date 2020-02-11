@@ -1,3 +1,3 @@
-> Install SpeechRecoginition
-> Install pyaudio
-> pythoon sr.py
+# Install SpeechRecoginition
+# Install pyaudio
+# python sr.py
